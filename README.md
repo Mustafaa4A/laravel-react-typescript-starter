@@ -262,4 +262,11 @@ php artisan view:clear        # Clear compiled views
 -   React 18+
 -   TypeScript
 -   Vite
--   ❤️ By Mustaf Abubakar!
+
+---
+
+## 👤 Author
+
+**Mustaf Abubakar**  
+🔗 Website: [mustafabubakar.com](http://mustafabubakar.com)  
+📧 Email: [me@mustafabubakar.com](mailto:me@mustafabubakar.com)
